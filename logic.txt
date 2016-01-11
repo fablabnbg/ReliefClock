@@ -1,0 +1,23 @@
+Segments
+	    B
+	A	C
+	    D
+	G	E
+	    F
+
+We can avoid adjacent back and forth moves with a 
+sequence like this:
+
+  ABCDEFG
+_
+1   X X
+7  XX X
+0 XXX XXX
+9 XXXX xX
+2  XXX XX
+3  XXXXX
+5 XX XXX
+6 Xx XXXX
+8 XXXXXXX
+4 X XXX
+  ABCDEFG
