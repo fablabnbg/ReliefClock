@@ -23,11 +23,11 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.70858804"
-     inkscape:cx="545.36117"
-     inkscape:cy="692.99585"
+     inkscape:zoom="3.7778138"
+     inkscape:cx="878.48655"
+     inkscape:cy="1877.7959"
      inkscape:document-units="mm"
-     inkscape:current-layer="svg2"
+     inkscape:current-layer="layer3"
      showgrid="true"
      units="mm"
      inkscape:window-width="1600"
@@ -850,8 +850,7 @@
        inkscape:groupmode="layer"
        id="layer3"
        inkscape:label="slider construction"
-       style="display:none"
-       sodipodi:insensitive="true">
+       style="display:inline">
       <path
          style="opacity:1;fill:none;fill-opacity:1;stroke:#ff0000;stroke-width:0.10000001;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
          d="m 268.50024,-500.62183 c -5.50022,-2.7e-4 -13.50022,14.99973 -28.50003,14.99186 l 0,6.00769 5.00007,0 0,-2.99971 9.9996,0 0,2.99971 10.00015,0 0,-2.99971 10.00014,0 0,2.99971 9.9996,0 0,-2.99971 10.00015,0 0,2.99971 5.00008,0 0,-6.08872 c -14.99998,0.0889 -22.99998,-14.9111 -28.50004,-14.91083 l 0,2.99971 -2.99972,0 z m -8e-5,7.49973 2.99971,0 9e-5,1.49986 0.49995,0 5.00007,0 0,3.00027 -0.9999,0 0,2.99971 -11.99996,0 0,-2.99971 -0.9999,0 0,-3.00027 4.99952,0 0.5005,0 z"
@@ -2603,10 +2602,10 @@
       </g>
       <path
          style="display:inline;opacity:1;fill:none;fill-opacity:1;stroke:#ff0000;stroke-width:0.35433072;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-         d="m 249.99985,-579.61937 0,3.47927 c 0.814,0.0291 1.45603,0.70248 1.44638,1.51694 l 0,9.0008 4.50013,0 0,2.99971 -5.94651,0 0,6.48229 c 0.814,0.0291 1.45603,0.70248 1.44638,1.51695 l 0,10.00015 c 0.0108,0.81531 -0.63151,1.49001 -1.44638,1.51915 l 0,3.48202 -2.99972,0 0,4.00017 2.99972,0 0,2.99972 22.94651,0 0,2.99971 3.99965,0 5.6e-4,-2.99952 c 0.0535,-7.00009 -17.94654,-7.00009 -17.94646,-33.00035 0,-3 -4.00033,-5.9999 -4.05364,-8.99969 4e-5,-2.74345 -2.21004,-4.96838 -4.94661,-4.99732 z"
+         d="m 251.99985,-579.61937 0,3.47927 c 0.814,0.0291 1.45603,0.70248 1.44638,1.51694 l 0,9.0008 4.50013,0 0.0537,3.00024 -6.00013,-5.3e-4 0,6.48229 c 0.814,0.0291 1.45603,0.70248 1.44638,1.51695 l 0,10.00015 c 0.0108,0.81531 -0.63151,1.49001 -1.44638,1.51915 l 0,3.48202 -2.99972,0 0,4.00017 2.99972,0 0,2.99972 20.94651,0 0,2.99971 3.99965,0 0.0539,-2.99963 c 0.0535,-7.00009 -15.99991,-6.99998 -15.99983,-33.00024 0,-3 -4.00033,-5.9999 -4.05364,-8.99969 4e-5,-2.74345 -2.21004,-4.96838 -4.94661,-4.99732 z"
          id="path22828"
          inkscape:connector-curvature="0"
-         sodipodi:nodetypes="ccccccccccccccccccccscc" />
+         sodipodi:nodetypes="ccccccccccccccccccccsccc" />
       <g
          id="g22864"
          transform="translate(0,-7.0000007)">
@@ -2797,9 +2796,8 @@
     <g
        inkscape:groupmode="layer"
        id="layer6"
-       inkscape:label="slider+ wheels"
-       style="display:inline"
-       sodipodi:insensitive="true">
+       inkscape:label="laser 2"
+       style="display:inline">
       <g
          transform="translate(100.80785,89.203246)"
          id="g6042"
@@ -2808,7 +2806,7 @@
          inkscape:groupmode="layer"
          id="layer9"
          inkscape:label="sliders"
-         style="display:inline">
+         style="display:none">
         <g
            transform="matrix(0,-0.99999999,0.99999999,0,514.62137,-226.62217)"
            style="display:inline"
@@ -4384,7 +4382,7 @@
       <g
          inkscape:groupmode="layer"
          id="layer10"
-         inkscape:label="wheels ..."
+         inkscape:label="wheels &amp; co"
          style="display:none">
         <g
            transform="matrix(-0.99063067,-0.13656832,0.13656832,-0.99063067,355.49064,-632.21467)"
@@ -5437,13 +5435,13 @@
     <g
        inkscape:groupmode="layer"
        id="layer4"
-       inkscape:label="prospect"
+       inkscape:label="laser 1"
        style="display:none">
       <g
          inkscape:groupmode="layer"
          id="layer11"
          inkscape:label="sidebar"
-         style="display:inline">
+         style="display:none">
         <g
            style="display:inline"
            id="g22820-1"
@@ -5841,7 +5839,7 @@
       <g
          inkscape:groupmode="layer"
          id="layer12"
-         inkscape:label="digit">
+         inkscape:label="prospekt">
         <rect
            transform="translate(0,-1.3634464e-6)"
            style="display:inline;opacity:1;fill:none;fill-opacity:1;stroke:#ff0000;stroke-width:0.50000006;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
